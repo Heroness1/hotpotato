@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^6.15.0",
+    "react-together": "^0.4.4"
+  }
+}
