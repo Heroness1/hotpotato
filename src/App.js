@@ -1,6 +1,5 @@
 import React from 'react';
 import HotPotatoGame from './components/HotPotatoGame';
-import './App.css';
 
 function App() {
   return (
